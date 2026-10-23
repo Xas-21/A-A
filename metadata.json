@@ -1,0 +1,6 @@
+{
+  "name": "ميثاق المودة — عبدالله وآية",
+  "description": "منصة تفاعلية لتوثيق التواصل اليومي، تعزيز التفاهم، وبناء العادات الإيجابية بين عبدالله وآية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
